@@ -1,4 +1,4 @@
-# 📘 Udemy Course Sales – Exploratory Data Analysis Dashboard
+# 📘 Udemy Course Sales – Exploratory Data Analysis Dashboard 
 
 This repository contains an interactive dashboard analyzing Udemy course sales. The analysis was part of a broader training initiative aimed at enhancing business intelligence capabilities. Initial data preprocessing was completed in **Python**, with **Power BI** used for interactive visualization and reporting.
 
